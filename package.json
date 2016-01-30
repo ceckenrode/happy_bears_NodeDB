@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ceckenrode/happy_bears_NodeDB#readme",
   "dependencies": {
-    "mysql": "^2.10.2"
+    "mysql": "^2.10.2",
+    "prompt": "^0.2.14"
   }
 }
